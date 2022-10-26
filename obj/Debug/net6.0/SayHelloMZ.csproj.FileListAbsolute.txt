@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\bin\Debug\net6.0\SayHelloMZ.exe
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\bin\Debug\net6.0\SayHelloMZ.deps.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\bin\Debug\net6.0\SayHelloMZ.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\bin\Debug\net6.0\SayHelloMZ.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\bin\Debug\net6.0\SayHelloMZ.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\refint\SayHelloMZ.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\SayHelloMZ.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\SAYHELLOGitHubVF\SayHelloMZ\obj\Debug\net6.0\ref\SayHelloMZ.dll
