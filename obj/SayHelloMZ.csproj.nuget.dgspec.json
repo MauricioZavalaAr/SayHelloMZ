@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\SAYHELLOGitHubVF\\SayHelloMZ\\SayHelloMZ.csproj": {}
+    "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauriciosSayHello\\SayHelloMZ\\SayHelloMZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\SAYHELLOGitHubVF\\SayHelloMZ\\SayHelloMZ.csproj": {
+    "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauriciosSayHello\\SayHelloMZ\\SayHelloMZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\SAYHELLOGitHubVF\\SayHelloMZ\\SayHelloMZ.csproj",
+        "projectUniqueName": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauriciosSayHello\\SayHelloMZ\\SayHelloMZ.csproj",
         "projectName": "SayHelloMZ",
-        "projectPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\SAYHELLOGitHubVF\\SayHelloMZ\\SayHelloMZ.csproj",
-        "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\SAYHELLOGitHubVF\\SayHelloMZ\\obj\\",
+        "projectPath": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauriciosSayHello\\SayHelloMZ\\SayHelloMZ.csproj",
+        "packagesPath": "C:\\Users\\zerot\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauriciosSayHello\\SayHelloMZ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zerot\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
